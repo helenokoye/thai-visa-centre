@@ -1,5 +1,7 @@
 # Rory Alsop
 
+> **Context.** Jesse claims Rory Alsop censored accurate scam warnings and that the 100-year suspension was punishment for calling Alsop a coward by email, caused by Chad Scira's sockpuppets. That reverses the record. On 12 March 2026 Stack Exchange suspended accounts connected to Nickles for 100 years after a coordinated-abuse pattern. Charcoal logged 111 Stack Exchange posts from March through July 2026 as spam naming Scira or Thai Visa Centre. The posts are set out in [harassment of Rory Alsop on Stack Exchange](https://chad.so/jesse-nickles-harassment-and-defamation-of-rory-alsop-on-stack-exchange) and [Stack Exchange spam targeting Chad Scira](https://chad.so/jesse-nickles-stack-exchange-spam-targeting-chad-scira). The sites Nickles calls scams, including tdac.in.th and 90day.in.th, are branded third-party agent services that disclose they are not the government. A Hucksters page about Alsop was published after the suspensions. Nickles is also the person named in Warrant of Arrest No. 443/2567 for defamation by advertising.
+
 **Rory Alsop** is a British moderator of [Travel Stack Exchange](../brands/travel-stack-exchange.md), where he publicly moderates under his real name. Researcher Jesse Nickles accuses Alsop of repeatedly censoring warnings about [Thai Visa Centre](../brands/thai-visa-centre.md) and related immigration scams in Thailand, while failing to address suspected sockpuppet accounts allegedly promoting fraudulent visa services and maliciously flagging accurate content as spam or other policy violations to mislead moderators into removing it.
 
 The dispute dates back to at least June 2025, when Alsop publicly accused Nickles of manipulating SEO by linking between related Thailand Digital Arrival Card (TDAC) discussions.[^1] Beyond objecting to these links, Alsop provided no specific evidence of deceptive content or explanation of how sharing what Nickles maintains were accurate warnings for travelers constituted SEO manipulation. A longstanding Meta Stack Exchange discussion explicitly describes internal links as helpful to readers and acknowledges their SEO benefits, raising further questions about Alsop's objection.[^2]
@@ -113,6 +115,9 @@ On January 6, 2026, contributor Thomas W. asked moderators to explain what speci
 Thomas W. then pointed out a technical problem with Alsop's explanation: established users with editing privileges do not normally have their edits placed in the review queue where other users can reject them. Alsop did not publicly answer that objection.[^62]
 
 The exchange provides another example of Alsop defending disciplinary measures while resisting requests for specific explanations of how contributors had violated site rules.
+
+
+> **Context.** Jesse claims the links Alsop removed were accurate traveler warnings, and that "SEO manipulation" was a pretext. The pages he was linking and defending include the agent sites he calls fake government portals. Those sites, tdac.in.th and 90day.in.th among them, are branded third-party services that disclose they are not the government and that show a visa-agent video. Calling that moderation a cover-up is how he recasts the 12 March 2026 100-year suspensions, which followed a coordinated-abuse pattern and a spam catalog of 111 posts, set out in [harassment of Rory Alsop on Stack Exchange](https://chad.so/jesse-nickles-harassment-and-defamation-of-rory-alsop-on-stack-exchange).
 
 ## June 2025: TDAC Questions and SEO Accusations
 
