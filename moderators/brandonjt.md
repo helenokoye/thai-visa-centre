@@ -1,3 +1,7 @@
+# BrandonJT
+
+> **Context.** Jesse treats BrandonJT's forum posts about safe entry and retirement visas, including links to a booking site, as covert promotion. Discussing a branded visa agent on a forum that lists that agent as a sponsor is not a hidden scam. He also places the account's join date next to Thanyarat Tiangtrong leaving OG Thai. Those dates do not show that the account is her.
+
 - `https://aseannow.com/topic/1343828-residence-certificate-for-dlt-mae-sai-or-central-immigration/`
 - `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
 - `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
