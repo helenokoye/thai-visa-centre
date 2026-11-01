@@ -1,7 +1,5 @@
 # Darren Lyons
 
-> **Context.** The Khaosod English complaint and The Verge article are about The Thaiger's own newsroom, not about Thai Visa Centre impersonating immigration. Listing Lyons on this index does not show that he operates 90day.in.th, tdac.in.th, or Thai Visa Centre.
+The source index gives Darren Lyons's role at The Thaiger, from its start in 2018 and as CEO from 2022, and then the newsroom disputes that belong to that newsroom. A Khaosod English complaint and a Verge article are about The Thaiger's own articles. They are not a record that he operates 90day.in.th, tdac.in.th, or Thai Visa Centre.
 
-- https://www.khaosodenglish.com/news/2020/09/17/khaosod-english-files-police-complaint-against-the-thaiger-website/
-- https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait
-- `https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand`
+Putting that career in [jessuppi/thai-visa-centre](https://github.com/jessuppi/thai-visa-centre) is what this page records. The newsroom citations stay newsroom citations.

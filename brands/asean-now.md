@@ -1,3 +1,5 @@
 # ASEAN NOW
 
-> **Context.** This page states no facts. The sockpuppet allegation is on the aseannow.com row, and that row does not identify a sockpuppet account. ASEAN NOW lists Thai Visa Centre as a sponsor, which is a disclosed commercial relationship.
+The source's brand page for ASEAN NOW states no facts. The allegation sits on the aseannow.com row: hidden promotion, and moderators removing criticism, on a forum that lists Thai Visa Centre as a sponsor.
+
+A disclosed sponsorship is a commercial relationship. This fork does not repeat the hidden-promotion claim as a finding. The documented campaign runs the other way and is cited on the aseannow.com page.

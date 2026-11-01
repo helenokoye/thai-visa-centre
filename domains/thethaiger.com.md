@@ -1,3 +1,5 @@
 # thethaiger.com
 
-> **Context.** The index lists thethaiger.com with no description. It is the news site. This page states no fact connecting it to a visa-service fraud.
+The source lists thethaiger.com with no description. It is the news site.
+
+Nothing on the page connects it to a visa service. Darren Lyons's entry says where the newsroom citations belong.
