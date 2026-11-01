@@ -1,0 +1,3 @@
+# Dechathorn Saengsap
+
+> **Context.** Jesse claims tdac.in.th is an "unofficial and deceptively designed" TDAC website and that Daily News was wrong to mention it beside the government portal. tdac.in.th is a real third-party service. It is branded, it says in more than one place that it is not the government, it does not run Google ads that present the site as a government service, and it features a visa-agent video. A news story that links a private service beside the government portal is not evidence of phishing. Unanswered email is not an admission. Those emails are later than the 18 May 2024 report in Warrant of Arrest No. 443/2567.

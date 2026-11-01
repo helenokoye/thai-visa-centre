@@ -1,0 +1,3 @@
+# Priscilla Yeung
+
+> **Context.** Jesse's point is that a commercial visa product is suspect because Priscilla Yeung's earlier work was at foodpanda and BCG rather than as an immigration lawyer. A career change is not fraud. Issa Compass is a commercial service with named companies, Issara Platforms Pte. Ltd. and Issa Systems Co., Ltd. The sockpuppet-testimonial allegation he aims at other visa brands is the pattern documented against him, on Trustpilot, Quora, TripAdvisor, and Stack Exchange. The Trustpilot reviews, including those aimed at Issa Compass and Thai Visa Centre, are set out in [Trustpilot fake reviews by Jesse Nickles](https://tvc.co.th/trustpilot-fake-reviews-by-jesse-nickles).
