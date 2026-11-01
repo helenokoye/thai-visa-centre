@@ -8,6 +8,8 @@ ASEAN NOW discloses Thai Visa Centre as a sponsor. Discussing that sponsor, incl
 
 The links he added are the record of what he used. They are not adopted as findings.
 
+He kept committing through the same morning. The later posts are the same kind of material. A November 2024 thread discusses prices for paid airport entry and names no company: https://aseannow.com/topic/1343856-visa-on-arrival-refused-what-is-the-best-way-to-re-enter-thailand/page/2/ . A March 2025 thread is about opening a bank account, and the company's sponsor account answered in it: https://aseannow.com/topic/1355069-can-i-change-the-visa-extemption-to-non-o-based-on-marriage/ . On 7 November 2025 he wrote that he knew for a fact that Thai Visa Centre still helped customers open an account while applying for a visa: https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/ . The next day he alleged that some agents pass part of a fee to an immigration office so a balance rule is overlooked, and that post does not name Thai Visa Centre: https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/page/2/ . In October 2026 he said he had heard that paid airport entry was still available only in Krabi: https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/ . A forum post is not a finding that the company paid an officer, and it is not a finding that the account holder is the company. The Nation Thailand report still does not name either of them.
+
 - `https://aseannow.com/topic/1343828-residence-certificate-for-dlt-mae-sai-or-central-immigration/`
 - `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
 - `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
@@ -27,5 +29,10 @@ The links he added are the record of what he used. They are not adopted as findi
 - `https://aseannow.com/topic/1361730-access-denied-to-enter-in-thailand/page/2/`
 - `https://aseannow.com/topic/1402687-passport-need/`
 - `https://aseannow.com/forum_rules/`
+- https://aseannow.com/topic/1343856-visa-on-arrival-refused-what-is-the-best-way-to-re-enter-thailand/page/2/
+- https://aseannow.com/topic/1355069-can-i-change-the-visa-extemption-to-non-o-based-on-marriage/
+- https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/
+- https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/page/2/
+- https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/
 - https://www.nationthailand.com/news/general/40067752
 - https://www.thailand.go.th/guide-book-detail/001_01_134
