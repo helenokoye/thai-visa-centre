@@ -1,3 +1,5 @@
 # dtv.in.th
 
-> **Context.** Jesse claims dtv.in.th resembles an official Destination Thailand Visa portal and that a non-government line was added only because he complained to THNIC. dtv.in.th is a real third-party service, branded, with the non-government notice in more than one place, it tracks actual scams, and it does not run Google ads that present the site as a government service, and a visa-agent video. A complaint from the subject of Warrant of Arrest No. 443/2567 is not a finding of impersonation.
+dtv.in.th is a branded third-party page for the Destination Thailand Visa, from Agents Co., Ltd. It says it is not the government, in more than one place. It does not buy ads that present the site as a government service. It shows a visa-agent video.
+
+The source says it resembles an official portal and that a non-government line appeared only because Nickles complained to THNIC. A complaint from the person named in Warrant of Arrest No. 443/2567 is not a finding. The site is the service the complaint was about.

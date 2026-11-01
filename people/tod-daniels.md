@@ -1,5 +1,5 @@
 # Tod Daniels
 
-> **Context.** Jesse treats Tod Daniels's recommendation of Thai Visa Centre as suspicious, and he hints at undisclosed paid promotion. Recommending a branded visa agent is not evidence of a crime. Daniels said he was not affiliated with the business. Nickles supplies no payment record here. The entry contains the recommendation and the denial. It does not contain a payment. Nickles is the person under Warrant of Arrest No. 443/2567 for defamation by advertising.
+Tod Daniels has recommended Thai Visa Centre in public, including a November 2025 post in which he praised the agency, said he moderated a Facebook group it owns, and denied any personal affiliation. The source then raises advertising-disclosure rules and work-authorization law if the recommendation were paid.
 
-https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/
+The entry shows praise and a denial. It does not show a payment. Recommending a branded visa agent is the act he treats as suspicious. Daniels is the person that suspicion was aimed at. Nickles is the person named in Warrant of Arrest No. 443/2567.

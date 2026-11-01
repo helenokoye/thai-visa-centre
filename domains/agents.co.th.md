@@ -1,3 +1,5 @@
 # agents.co.th
 
-> **Context.** Jesse includes agents.co.th in a network he describes as websites designed to resemble official immigration services. agents.co.th is the real site of Agents Co., Ltd., a visa agent. It is not a phishing domain. The site identifies itself as a visa agent. The branding, the non-government notices, and the visa-agent video are how a visitor can tell it is a third-party service.
+agents.co.th is the site of Agents Co., Ltd. It identifies itself as a visa agent. The branding, the notices that it is not the government, and the visa-agent video are how a visitor can tell.
+
+The source places it on a list of sites described as official immigration services. The company site is not that. It is the business the list was aimed at.

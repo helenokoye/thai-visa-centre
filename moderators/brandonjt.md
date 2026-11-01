@@ -1,15 +1,5 @@
 # BrandonJT
 
-> **Context.** Jesse treats BrandonJT's forum posts about safe entry and retirement visas, including links to a booking site, as covert promotion. Discussing a branded visa agent on a forum that lists that agent as a sponsor is not a hidden scam. He also places the account's join date next to Thanyarat Tiangtrong leaving OG Thai. Those dates do not show that the account is her.
+The source says the ASEAN NOW account BrandonJT joined in late 2024, discussed safe entry and retirement visas, and linked to a booking site. ASEAN NOW lists Thai Visa Centre as a sponsor. Discussing a branded visa agent on a forum that discloses that sponsorship is not a hidden arrangement.
 
-- `https://aseannow.com/topic/1343828-residence-certificate-for-dlt-mae-sai-or-central-immigration/`
-- `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
-- `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
-- `https://aseannow.com/topic/1387557-has-the-visa-exempt-fuss-calmed-down-in-2026/`
-- `https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/`
-- `https://aseannow.com/topic/1406324-using-an-agent-for-annual-retirement-extension/`
-- `https://aseannow.com/topic/1397370-guaranteed-entry-under-some-official-scrutiny/`
-- `https://aseannow.com/topic/1388105-safe-entry/`
-- `https://aseannow.com/topic/1400159-re-entry-application-at-suvarnabhumi-airport/`
-- `https://aseannow.com/topic/1402416-re-entry-permit-at-airport/`
-- `https://aseannow.com/topic/1403802-important-dtv-announcement-application-restrictions-sep-2026/`
+The source also sets the join date beside Thanyarat Tiangtrong leaving one job for another. Adjacent dates do not show that the account is her. The three topic links in the source are the posts he offered as the proof. This page keeps the account as a target of that reading and does not adopt it.

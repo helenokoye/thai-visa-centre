@@ -1,3 +1,5 @@
 # Choice Group Asia Co., Ltd.
 
-> **Context.** Choice Group Asia sold ASEAN NOW's digital assets to The Thaiger in April 2024. A sale of forum assets does not place the seller inside a visa-service fraud.
+Choice Group Asia sold ASEAN NOW's forum assets to The Thaiger in April 2024. The source records that sale.
+
+A sale of a forum does not place the seller in a visa-service dispute. The company is in the index because the forum is in the index.

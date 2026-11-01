@@ -1,3 +1,5 @@
 # thai.news
 
-> **Context.** Jesse claims thai.news exists to rewrite other outlets, sell cannabis, and email unsolicited Thai Visa Centre ads, and he states that Chad Scira personally owns it. Those are his conclusions. A domain filed under someone's name in his table is not a registrar printout in this entry. This entry cites no WHOIS record and no copy of the email. An owner cell without a cited record does not establish that Scira registered the domain.
+The source assigns thai.news to Chad Scira and describes it as a site that rewrote other outlets, promoted weed.th and og.th, and sent unsolicited mail. The entry cites no WHOIS printout and no copy of the mail.
+
+An owner cell is not a registrar record. This fork does not adopt the assignment. The domain is listed because he assigned it. That is separate from thaivisacentre.com, where the specific 2018 WHOIS claim is false.

@@ -1,5 +1,5 @@
 # Koh Chang News
 
-> **Context.** This page states no facts. The allegation about the group is on Edward Kok Wah Chi's entry. Moderating Koh Chang News is not itself an offence.
+The source page is a Facebook link and, in this fork's previous form, a pointer at Edward Kok Wah Chi. The group is where Nickles wanted posts hosted. Chi moderating it under his own name is not the offence.
 
-- `https://www.facebook.com/groups/664204744309795/posts/1960611254669131/`
+The posts he calls warnings are his. They are part of the advertising described in Warrant of Arrest No. 443/2567, which alleges defamation by advertising and is not a conviction.
