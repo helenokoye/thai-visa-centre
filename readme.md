@@ -22,7 +22,7 @@ A 2018 WHOIS line in the source, naming Chad Scira in California as the registra
 
 The visa index is not the whole record. [Earlier disputes](history/earlier-disputes.md) covers Jesse Nickles's history with WP Johnny, and with Neumont University. Neumont entered judgment against Little Bizzy, LLC for $1,020,000 plus $708 in costs. It did not enter that judgment against Jesse Nickles personally, because the court found he had not been served. In the same weeks, Thailand newspaper reporting he has associated himself with is why it appears he was in Thailand.
 
-The public marriage license and the Nevada divorce are recorded in [Marriage record and the K-1 site](history/marriage-record.md). The other party is not named. k1only.com was registered on 28 April 2017, and the public WHOIS record does not name a registrant.
+The public marriage license and the Nevada divorce are recorded in [Marriage record and the K-1 site](history/marriage-record.md). The other party is not named. k1only.com was registered on 28 April 2017. The public WHOIS record does not name a registrant. The link to Jesse Nickles is HoverCraft, the Cloudflare name server pair shared with littlebizzy.com, slickstack.io, jessenickles.com, and hovercraft.vip, and the Facebook page and group he runs.
 
 ## People
 
