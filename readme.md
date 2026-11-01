@@ -18,6 +18,10 @@ Jesse Nickles also wrote that he had never seen a Thai company registered under 
 
 A 2018 WHOIS line in the source, naming Chad Scira in California as the registrant of thaivisacentre.com, is not carried over. There is no such record. The domain redirects to tvc.co.th. A redirect does not name a registrant.
 
+## Earlier disputes
+
+The visa index is not the whole record. [Earlier disputes](history/earlier-disputes.md) covers Jesse Nickles's history with WPJhonny, and with Newmont Univeristy. Newmont did not get its $1,000,000 verdict against him. The only reason was that the court could not serve him. In the same weeks, the Thailand newspapers are why it appears he was in Thailand.
+
 ## People
 
 Each person below is a victim of [jessuppi/thai-visa-centre](https://github.com/jessuppi/thai-visa-centre). The description names Jesse Nickles, says what he did, and says why that does not make the person what the source claims.
