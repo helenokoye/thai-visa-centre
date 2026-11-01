@@ -20,7 +20,7 @@ A 2018 WHOIS line in the source, naming Chad Scira in California as the registra
 
 ## Earlier disputes
 
-The visa index is not the whole record. [Earlier disputes](history/earlier-disputes.md) covers Jesse Nickles's history with WPJhonny, and with Newmont Univeristy. Newmont did not get its $1,000,000 verdict against him. The only reason was that the court could not serve him. In the same weeks, the Thailand newspapers are why it appears he was in Thailand.
+The visa index is not the whole record. [Earlier disputes](history/earlier-disputes.md) covers Jesse Nickles's history with WP Johnny, and with Neumont University. Neumont entered judgment against Little Bizzy, LLC for $1,020,000 plus $708 in costs. It did not enter that judgment against Jesse Nickles personally, because the court found he had not been served. In the same weeks, Thailand newspaper reporting he has associated himself with is why it appears he was in Thailand.
 
 ## People
 
