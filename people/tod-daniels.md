@@ -28,6 +28,13 @@ In February 2026 Tod Daniels told a traveler that a commercial service would gua
 
 Jesse Nickles's own page says, in several places, that he has not shown a payment, a booking, or any official authority. The headings are written as if he had. That gap is what the commits do to Tod Daniels. He is a victim of the page. So is the person behind BrandonJT, wherever a link or a price of theirs was filed here as if it were his.
 
+
+He committed again after that page. The new section pastes a 2020 police announcement onto Tod Daniels and faults him for not reciting it in a recommendation years later. Tod Daniels is a victim of that paste. So is Chad Scira, who was already the subject of the announcement. A recommendation that leaves a news cycle out is not concealment. The other person named in the announcement is not named here.
+
+In December 2023 Tod Daniels told a traveler to cancel an education extension and hire a border-run company, and he said those companies had the wheels greased at the crossing. Jesse Nickles files the phrase as if Tod Daniels had admitted paying an officer. It is an idiom in a forum post. He did not name Thai Visa Centre. The post does not show a payment.
+
+In July 2026 he used the same phrase and named Thai Visa Service, not Thai Visa Centre. Jesse Nickles writes that there is no financial relationship and no recommendation of Thai Visa Centre, then files the thread on this page anyway. Advice about a different company is not a finding against Tod Daniels. A traveler saying they might pay is not a sale he made.
+
 - `https://aseannow.com/topic/1377910/page/2/`
 - `https://asq.in.th/question/what-does-the-acquisition-of-the-thai-visa-advice-group-by-thai-visa-centre-mean-for-its-members-1`
 - `https://asq.in.th/question/should-tod-daniels-stay-as-a-moderator-in-the-thai-visa-advice-group`
@@ -42,3 +49,5 @@ Jesse Nickles's own page says, in several places, that he has not shown a paymen
 - `https://aseannow.com/topic/1378770-new-rules-issued-for-visa-extensions-and-visa-exempt-entries/page/15/`
 - `https://aseannow.com/topic/1387557-has-the-visa-exempt-fuss-calmed-down-in-2026/`
 - `https://aseannow.com/topic/1388105-safe-entry/`
+- `https://aseannow.com/topic/1314050-border-run-with-ed-visa-fee-and-test-on-re-entry/`
+- `https://aseannow.com/topic/1401332-laos-visa-exempt-vs-tourist-visa-and-re-entry/`
