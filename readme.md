@@ -44,7 +44,7 @@ Each person below is a victim of [jessuppi/thai-visa-centre](https://github.com/
 | [Thana Manakij](people/thana-manakij.md) | Thai | Jesse Nickles named Thana Manakij and wrote nothing else. He is a victim of that listing. A blank cell is not evidence against him. |
 | [Thanyarat Tiangtrong](people/thanyarat-tiangtrong.md) | Thai | Jesse Nickles used two jobs as if the dates connected Thanyarat Tiangtrong to a network. She is a victim of that. Employment at OG Thai and then at FazWaz is not that connection. |
 | [Titiksha Tolia](people/titiksha-tolia.md) | | On 1 November 2026 Jesse Nickles gave Titiksha Tolia a page and a cell. The cell uses her marketing job at Issa Compass, figures from her LinkedIn profile, and later follower counts he calls a contradiction. Titiksha Tolia is a victim of that. A marketing job is not a scheme, and a later public count is not an audit of the job. |
-| [Tod Daniels](people/tod-daniels.md) | American | Jesse Nickles treated Tod Daniels's public praise of a visa agent, and a denial of affiliation, as undisclosed advertising. Tod Daniels is a victim of that. The source shows praise and a denial. It does not show a payment. |
+| [Tod Daniels](people/tod-daniels.md) | American | Jesse Nickles treated Tod Daniels's public praise of a visa agent, and a denial of affiliation, as undisclosed advertising, then filed years of forum advice and another moderator's links on the same page. Tod Daniels is a victim of that page. The source shows praise, advice, and a denial. It does not show a payment. |
 
 ## Moderators
 
@@ -54,7 +54,7 @@ Each person below is a victim of [jessuppi/thai-visa-centre](https://github.com/
 | DrJack54 | [ASEAN NOW](brands/asean-now.md) | On 1 November 2026 Jesse Nickles added a thread in which DrJack54 asked for help with a 90-day report and another account pointed him at 90day.in.th. DrJack54 is a victim of being placed in that dossier. 90day.in.th is a branded service that says it is not the government. Asking for help with a report is not a scheme. |
 | [Edward Kok Wah Chi](people/edward-kok-wah-chi.md) | [Koh Chang News](brands/koh-chang-news.md) | Jesse Nickles listed Edward Kok Wah Chi's real-name moderation as if the moderation were the charge. He is a victim of that. Moderating Koh Chang News under his own name is not what Jesse Nickles claims. |
 | [Rory Alsop](people/rory-alsop.md) | [Travel Stack Exchange](brands/travel-stack-exchange.md) | Jesse Nickles listed Rory Alsop's real-name moderation as the setup for a longer attack. Rory Alsop is a victim of that attack. Moderating under his own name is not the misconduct on the record. The spam record belongs to accounts connected to Jesse Nickles. |
-| [Tod Daniels](people/tod-daniels.md) | [ASEAN NOW](brands/asean-now.md) | Jesse Nickles listed Tod Daniels's real-name moderation because Tod Daniels had recommended a visa agent. Tod Daniels is a victim of that. Helping moderate a travel forum under his own name is not a hidden role. |
+| [Tod Daniels](people/tod-daniels.md) | [ASEAN NOW](brands/asean-now.md) | Jesse Nickles listed Tod Daniels's real-name moderation because Tod Daniels had recommended a visa agent, and later commits treat that moderating as a hidden job inside the company. Tod Daniels is a victim of that. He said the company had bought the group and that moderating it was a hobby. A hobby he disclosed is not a hidden role. |
 
 ## Companies
 
