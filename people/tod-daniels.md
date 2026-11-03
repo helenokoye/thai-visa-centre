@@ -39,21 +39,21 @@ In May 2023 he described extensions arranged through an agent in another provinc
 
 In October 2026 BrandonJT said a service was available at Krabi only, and Tod Daniels said Thai Visa Service might be running at Suvarnabhumi on some days. Thai Visa Service is a different agent from Thai Visa Centre. A disagreement about whether a service is still available is not a sale. Tod Daniels did not name Thai Visa Centre in that exchange.
 
-- `https://aseannow.com/topic/1377910/page/2/`
-- `https://asq.in.th/question/what-does-the-acquisition-of-the-thai-visa-advice-group-by-thai-visa-centre-mean-for-its-members-1`
-- `https://asq.in.th/question/should-tod-daniels-stay-as-a-moderator-in-the-thai-visa-advice-group`
-- `https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/`
-- `https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/page/2/`
-- `https://thethaiger.com/news/national/ive-been-denied-entry-to-thailand-now-what`
-- `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
-- `https://aseannow.com/topic/1361730-access-denied-to-enter-in-thailand/page/2/`
-- `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/3/`
-- `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/4/`
-- `https://aseannow.com/topic/1374954-vientiane-e-visa-after-9-months-in-thailand/`
-- `https://aseannow.com/topic/1378770-new-rules-issued-for-visa-extensions-and-visa-exempt-entries/page/15/`
-- `https://aseannow.com/topic/1387557-has-the-visa-exempt-fuss-calmed-down-in-2026/`
-- `https://aseannow.com/topic/1388105-safe-entry/`
-- `https://aseannow.com/topic/1314050-border-run-with-ed-visa-fee-and-test-on-re-entry/`
-- `https://aseannow.com/topic/1401332-laos-visa-exempt-vs-tourist-visa-and-re-entry/`
-- `https://aseannow.com/topic/1295041-retirement-visa-change-of-address/`
-- `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
+- https://aseannow.com/topic/1377910/page/2/
+- https://asq.in.th/question/what-does-the-acquisition-of-the-thai-visa-advice-group-by-thai-visa-centre-mean-for-its-members-1
+- https://asq.in.th/question/should-tod-daniels-stay-as-a-moderator-in-the-thai-visa-advice-group
+- https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/
+- https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/page/2/
+- https://thethaiger.com/news/national/ive-been-denied-entry-to-thailand-now-what
+- https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/
+- https://aseannow.com/topic/1361730-access-denied-to-enter-in-thailand/page/2/
+- https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/3/
+- https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/4/
+- https://aseannow.com/topic/1374954-vientiane-e-visa-after-9-months-in-thailand/
+- https://aseannow.com/topic/1378770-new-rules-issued-for-visa-extensions-and-visa-exempt-entries/page/15/
+- https://aseannow.com/topic/1387557-has-the-visa-exempt-fuss-calmed-down-in-2026/
+- https://aseannow.com/topic/1388105-safe-entry/
+- https://aseannow.com/topic/1314050-border-run-with-ed-visa-fee-and-test-on-re-entry/
+- https://aseannow.com/topic/1401332-laos-visa-exempt-vs-tourist-visa-and-re-entry/
+- https://aseannow.com/topic/1295041-retirement-visa-change-of-address/
+- https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/

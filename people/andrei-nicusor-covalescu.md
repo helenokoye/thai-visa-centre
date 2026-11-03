@@ -8,7 +8,7 @@ A marketing job at a commercial visa service is not a scheme. Being young for a 
 
 What he cited:
 
-- `https://sg.linkedin.com/in/andrei-nicusor-covalescu-b4b559212`
+- https://sg.linkedin.com/in/andrei-nicusor-covalescu-b4b559212
 - `https://sg.linkedin.com/in/andrei-builds`
 - `https://medium.com/@covalescuandrei433/users-want-it-and-still-dont-click-the-fogg-behavior-model-in-plain-english-f86e3ca3c445`
 - `https://www.linkedin.com/posts/issa-compass_meet-titiksha-tolia-head-of-marketing-at-activity-7290698620448690177-nmkE`
