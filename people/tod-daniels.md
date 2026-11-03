@@ -33,7 +33,11 @@ He committed again after that page. The new section pastes a 2020 police announc
 
 In December 2023 Tod Daniels told a traveler to cancel an education extension and hire a border-run company, and he said those companies had the wheels greased at the crossing. Jesse Nickles files the phrase as if Tod Daniels had admitted paying an officer. It is an idiom in a forum post. He did not name Thai Visa Centre. The post does not show a payment.
 
-In July 2026 he used the same phrase and named Thai Visa Service, not Thai Visa Centre. Jesse Nickles writes that there is no financial relationship and no recommendation of Thai Visa Centre, then files the thread on this page anyway. Advice about a different company is not a finding against Tod Daniels. A traveler saying they might pay is not a sale he made.
+In July 2026 he used the same phrase and named Thai Visa Service, not Thai Visa Centre. Thai Visa Service and Thai Visa Centre are not the same company. They are different agents. Naming one is not a recommendation of the other. Tod Daniels was giving general advice about a border run. Jesse Nickles writes that there is no financial relationship and no recommendation of Thai Visa Centre, then files the thread on this page anyway. Advice about a different company is not a finding against Tod Daniels. A traveler saying they might pay is not a sale he made.
+
+In May 2023 he described extensions arranged through an agent in another province. Jesse Nickles's own writeup says the thread never names Thai Visa Centre. He filed it on this page anyway. Tod Daniels was giving general advice. He is a victim of that filing. So is Thai Visa Centre.
+
+In October 2026 BrandonJT said a service was available at Krabi only, and Tod Daniels said Thai Visa Service might be running at Suvarnabhumi on some days. Thai Visa Service is a different agent from Thai Visa Centre. A disagreement about whether a service is still available is not a sale. Tod Daniels did not name Thai Visa Centre in that exchange.
 
 - `https://aseannow.com/topic/1377910/page/2/`
 - `https://asq.in.th/question/what-does-the-acquisition-of-the-thai-visa-advice-group-by-thai-visa-centre-mean-for-its-members-1`
@@ -51,3 +55,5 @@ In July 2026 he used the same phrase and named Thai Visa Service, not Thai Visa 
 - `https://aseannow.com/topic/1388105-safe-entry/`
 - `https://aseannow.com/topic/1314050-border-run-with-ed-visa-fee-and-test-on-re-entry/`
 - `https://aseannow.com/topic/1401332-laos-visa-exempt-vs-tourist-visa-and-re-entry/`
+- `https://aseannow.com/topic/1295041-retirement-visa-change-of-address/`
+- `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
