@@ -44,3 +44,5 @@ Later commits put this account on Tod Daniels's page. In the May 2025 thread and
 - https://aseannow.com/topic/1392852-unable-to-login-for-online-90-days-reporting/
 - https://www.nationthailand.com/news/general/40067752
 - https://www.thailand.go.th/guide-book-detail/001_01_134
+
+In November 2025 he answered a thread that asked for experiences with Thai Visa Centre. Answering is not a hidden job. The person behind the account is a victim of that thread being filed against him. So is Thai Visa Centre.
